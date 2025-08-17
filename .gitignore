@@ -1,0 +1,8 @@
+# Ignore executable files
+*.exe
+
+# Ignore temporary file created by VS Code
+tempCodeRunnerFile.cpp
+
+# Ignore VS Code settings folder
+.vscode/
