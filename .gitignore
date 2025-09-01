@@ -3,6 +3,7 @@
 
 # Ignore temporary file created by VS Code
 tempCodeRunnerFile.cpp
+number_of_provinces.cpp
 
 # Ignore VS Code settings folder
 .vscode/
